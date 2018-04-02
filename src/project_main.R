@@ -10,7 +10,7 @@ library(RColorBrewer)
 #Reading Data
 sc_data <- read.csv("Suicides in India 2001-2012.csv")
 
-#check for missing values
+#check for missing values in the dataset
 is_na <- is.na(sc_data)
 summary(is_na)
 
