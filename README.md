@@ -21,7 +21,7 @@ To install any R library Run the following command on R command Prompt.
 Write the name of library you want to install in quotes. For more details refer [here](https://www.rdocumentation.org/packages/utils/versions/3.4.3/topics/install.packages).
 
 ## Folder setup ##
-- [x] Copy the files <kbd> project_main.R </kbd> and <kbd> Suicides in India 2001-2012.csv </kbd> to working directory of R in your computer. <br/>
+- [x] Copy the contents of folders <kbd> src </kbd> and <kbd> DataSet </kbd> to working directory of R in your computer. <br/>
 - [x] Open <kbd> project_main.R </kbd> in any IDE supporting R.
 - [x] Run the code.
 
